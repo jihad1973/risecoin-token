@@ -60,13 +60,17 @@
         .links a {
             display: inline-block;
             margin: 10px 15px;
-            padding: 10px 20px;
-            background: #FFD700;
-            color: #000;
             text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
         }
+        .links img {
+            width: 40px;
+            height: 40px;
+            transition: transform 0.2s ease;
+        }
+        .links img:hover {
+            transform: scale(1.1);
+        }
+
         footer {
             text-align: center;
             margin: 50px 0;
@@ -134,9 +138,15 @@
     <h2>Contact</h2>
     <p>Connect with us on social media or reach out directly:</p>
     <div class="links">
-        <a href="https://github.com/jihad1973/risecoin-token" target="_blank">GitHub</a>
-        <a href="https://t.me/+5r7JYAcO_O45ZDU0" target="_blank">Telegram</a>
+        <a href="https://github.com/jihad1973/risecoin-token" target="_blank">
+            <img src="github.png" alt="GitHub">
+        </a>
+        <a href="https://t.me/risecoin0" target="_blank">
+            <img src="telegram.png" alt="Telegram" width="40" height="40">
+        </a>
+
     </div>
+
     <p>Email: contact@risecoin.io</p>
 </section>
 
