@@ -10,9 +10,18 @@
 
 ---
 
+
+
 ## 🪙 Description
 
-RiseCoin is a community-based BEP-20 token built on BNB Smart Chain. It aims to reward long-term holders, fund small-scale Web3 projects, and promote a healthy, decentralized ecosystem.
+RiseCoin is a community-driven BEP-20 token deployed on the BNB Smart Chain, designed to empower holders and support real-world blockchain innovation. At its core, RiseCoin promotes a sustainable and decentralized ecosystem by:
+
+* **Rewarding long-term holders** through tokenomics that encourage loyalty and reduce volatility.
+* **Funding grassroots Web3 projects**, giving developers and startups access to early-stage support and visibility.
+* **Fostering community participation**, where decisions on funding and ecosystem growth are influenced by token holders.
+
+With a transparent roadmap and a commitment to decentralization, RiseCoin is more than a token — it’s a movement to elevate small-scale blockchain initiatives and give power back to the community.
+
 
 ---
 
@@ -23,5 +32,5 @@ RiseCoin is a community-based BEP-20 token built on BNB Smart Chain. It aims to 
 
 ## 📧 Contact
 
-jihadsaliba39@gmail.com
+risecointoken@gmail.com
 
