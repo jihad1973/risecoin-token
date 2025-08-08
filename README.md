@@ -32,5 +32,6 @@ With a transparent roadmap and a commitment to decentralization, RiseCoin is mor
 
 ## 📧 Contact
 
-risecointoken@gmail.com
+info@risecoin.online
+
 
